@@ -1,0 +1,5 @@
+admission_no,dob,student_name,class_batch,Mathematics,Physics,Chemistry,English,Computer_Science,Max_Marks_Per_Subject
+ADM1001,2008-05-14,Aarav Menon,Grade 10 - A,92,88,85,91,95,100
+ADM1002,2008-11-23,Diya Nair,Grade 10 - A,78,82,79,89,84,100
+ADM1003,2008-02-09,Rohan Varma,Grade 10 - B,34,45,38,62,55,100
+ADM1004,2008-08-30,Meera Krishnan,Grade 10 - B,96,94,91,95,98,100
